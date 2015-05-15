@@ -1,0 +1,48 @@
+{
+  "name": "ray-plane-intersection",
+  "version": "1.0.0",
+  "description": "whether a picking ray intersects with a plane",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "gl-vec3": "^1.0.3"
+  },
+  "devDependencies": {
+    "tape": "^4.0.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "plane",
+    "ray",
+    "camera",
+    "pick",
+    "ray",
+    "picking",
+    "raycast",
+    "cast",
+    "intersect",
+    "intersection",
+    "hit",
+    "test",
+    "hittest",
+    "3d",
+    "2d",
+    "planes",
+    "plane"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/ray-plane-intersection.git"
+  },
+  "homepage": "https://github.com/mattdesl/ray-plane-intersection",
+  "bugs": {
+    "url": "https://github.com/mattdesl/ray-plane-intersection/issues"
+  }
+}
